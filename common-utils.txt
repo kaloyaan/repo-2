@@ -1,7 +1,7 @@
 a
 be
 ce
-de
+d
 e
 f
 g
